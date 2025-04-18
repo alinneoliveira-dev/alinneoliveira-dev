@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Alinne 👋</h1>
+<h1 align="center">E aí, eu sou a Alinne! </h1>
 
 <p align="center">
   🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
@@ -29,9 +29,3 @@
 - ✉️ Email: alinnesoliveira13@gmail.com
 - 💼 [LinkedIn]: https://www.linkedin.com/in/alinne-oliveira/
 - 
-
----
-
-<div align="center">
-  Feito com 💙 por Alinne | Let's code!
-</div>
