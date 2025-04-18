@@ -2,18 +2,9 @@
 
 <p align="center">
   🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
-  💻 Apaixonada por tecnologia, programação e soluções criativas <br>
-  🚀 Sempre em busca de aprender algo novo e evoluir como dev
+   Apaixonada por tecnologia, programação e soluções criativas! <br>
+  
 </p>
-
----
-
-### 🌱 Sobre mim
-
-- 📍 Brasil  
-- 📚 Atualmente estudando **HTML, CSS, JavaScript, Java e SQLite**  
-- 🤝 Buscando oportunidades para me desenvolver na área de tecnologia  
-- 🧠 Interessada em desenvolvimento web e análise de dados
 
 ---
 
@@ -31,17 +22,13 @@
 
 ### 📌 Repositórios em destaque
 
-- 🔗 [Nome do seu projeto](https://github.com/alinneoliveira-dev/NOME-DO-REPO)
-
-> Dica: coloque uma descrição legal e um README no seu repositório para chamar atenção! Posso te ajudar com isso também.
-
----
+- 🔗 Aplicativo de férias: https://github.com/alinneoliveira-dev/app_ferias
 
 ### 📫 Contato
 
-- ✉️ Email: seuemail@email.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/SEU-USUARIO)  
-- 🌐 Portfólio: [em breve...]
+- ✉️ Email: alinnesoliveira13@gmail.com
+- 💼 [LinkedIn]: https://www.linkedin.com/in/alinne-oliveira/
+- 
 
 ---
 
