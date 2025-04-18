@@ -28,4 +28,4 @@
 
 - ✉️ Email: alinnesoliveira13@gmail.com
 - 💼 [LinkedIn]: https://www.linkedin.com/in/alinne-oliveira/
-- 
+
