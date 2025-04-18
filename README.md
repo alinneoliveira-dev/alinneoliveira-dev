@@ -23,12 +23,6 @@
        alt="SQLite" width="40" height="40" style="margin-right: 20px;"/>
 </p>
 
----
-
-### 📌 Repositórios em destaque
-
-- 🔗 Aplicativo de férias: https://github.com/alinneoliveira-dev/app_ferias
-
 ### 📫 Contato
 
 - ✉️ Email: alinnesoliveira13@gmail.com
