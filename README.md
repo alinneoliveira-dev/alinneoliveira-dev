@@ -1,47 +1,38 @@
-<h1 align="center">Alinne Oliveira</h1>
-<p align="center">
-  <img src="https://i.pinimg.com/originals/f1/3f/62/f13f62bba6f6c5d8b6f6d5b7c7cc50b8.gif" width="200px">
-</p>
+<h2 align="left">Alinne Oliveira</h2>
 
-<p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e sempre buscando aprender mais 💻✨
-</p>
+###
 
----
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-### 🚀 Tecnologias que estou aprendendo:
+###
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px" />
-  <img src="https://www.sqlite.org/images/sqlite370_banner.gif" width="80px" />
-</p>
+<div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo" />
+  <img width="12" />
+</div>
 
----
 
-### 🔗 Me encontre por aqui:
+###
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40px" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alinneoliveira-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alinneoliveira-dev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
 
----
+<br clear="both">
 
-### 📊 Status das linguagens que mais uso:
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinneoliveira-dev&layout=compact&langs_count=6&theme=tokyonight" />
-</p>
-
----
-
-### ✨ Uma imagem que combina comigo:
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/b6/f7/1b/b6f71bd7f2c23a49e614f945ad6debf5.gif" width="300px">
-</p>
+###
