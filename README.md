@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Alinne 👩‍💻</h1>
+<h1 align="center">Alinne Oliveira</h1>
 
 <p align="center">Estudante de Análise e Desenvolvimento de sistemas com foco em Full Stack.</p>
 
@@ -25,13 +25,10 @@
 ### 🛠️ Ferramentas
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" />
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="IntelliJ IDEA" />
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
 </div>
 
 ---
@@ -57,8 +54,3 @@
 
 ---
 
-### 🌸 Temática Fofa (Menina da TI)
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/8b/2d/33/8b2d3349cc3f1a7e16901a0c337f0bce.gif" height="180"/>
-</p>
