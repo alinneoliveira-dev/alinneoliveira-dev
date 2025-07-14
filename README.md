@@ -1,6 +1,6 @@
 <h1 align="center">Alinne Oliveira</h1>
 
-<p align="center">Estudante de Análise e Desenvolvimento de sistemas com foco em Full Stack.</p>
+<p align="center">Desenvolvedora Full Stack</p>
 
 ---
 
