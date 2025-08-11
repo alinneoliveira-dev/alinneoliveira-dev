@@ -1,4 +1,4 @@
-<h1 align="center">Alinne Oliveira</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=%3COi%2C+eu+sou+a+Alinne!+%2F%3E" alt="Typing SVG" /></a>
 
 <p> 👩‍💻 Desenvolvedora Full Stack </p>
  <p>  🎓 Tecnólogo em Análise e Desenvolvimento de Software </p>
